@@ -1,4 +1,5 @@
- import Weather from './Weather';
+//Git Pratice
+import Weather from './Weather';
  import Counter from './Counter';
  import Calculator from './Calculator';
  import Clock from './Clock';
